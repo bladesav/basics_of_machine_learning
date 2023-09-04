@@ -56,12 +56,6 @@ The purpose of this project is to explore and assess the use of Bayesian techniq
 
 ## Bayesian Model Assessment
 
-# Project Summary
-
-The purpose of this project is to explore and assess the use of Bayesian techniques for classification and regression tasks. The project objectives are as follows:
-
-## Bayesian Model Assessment
-
 In this project, we aim to assess the effect of prior variance on models through the calculation of log marginal likelihoods. We will use Laplace estimation as a method to reduce the computational complexity of the process.
 
 ### Importance Sampling for Posterior Predictions
